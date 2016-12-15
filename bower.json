@@ -1,0 +1,27 @@
+{
+  "name": "react-demo",
+  "description": "",
+  "main": "app/main.jsx",
+  "authors": [
+    "HMJ"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "es6",
+    "web",
+    "app",
+    "boilerplate"
+  ],
+  "homepage": "https://github.com/JieSwift/ReactDemo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}

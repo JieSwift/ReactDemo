@@ -1,0 +1,10 @@
+.bg{
+  background: #eee;
+}
+
+.text{
+  composes:bg;
+  color: #666;
+  font-size: 20px;
+  font-family: "微软雅黑";
+}
